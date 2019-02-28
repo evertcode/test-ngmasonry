@@ -10,7 +10,7 @@ export class AppComponent {
 
   public masonryOptions: NgMasonryOptions = {
     transitionDuration: '0.2s',
-    gutter: 30,
+    gutter: 8,
     resize: true,
     initLayout: true,
     fitWidth: true
